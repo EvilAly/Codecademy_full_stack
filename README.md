@@ -5,4 +5,6 @@ Fashion Blog: This project was created after completing the "Learn HTML: Structu
 
 Wine Schedule: This project and the corresponding CSS file was created after completing the "Learn HTML: Tables" section.
 
+NYC Semantic Tags Project: Blog webpage that was created as the final project of the Semantic Tags section.
+
 
