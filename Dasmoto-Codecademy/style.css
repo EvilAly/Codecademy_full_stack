@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+.banner {
+    font-size: 100px;
+    font-weight: bold;
+    max-width: 1500px;
+    color: khaki;
+    margin: 0 auto;
+    background-image: url(image1.jpeg);
+}
+
+.brush {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frame {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint {
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
